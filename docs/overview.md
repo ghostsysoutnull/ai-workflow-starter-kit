@@ -46,6 +46,11 @@ Prompt examples show how to ask for better results and how to constrain outputs 
 
 See [docs/prompts/README.md](prompts/README.md).
 
+### Examples
+Example workflows and a sample real-app markdown pack show how the guidance can be used in practice.
+
+See [docs/examples/README.md](examples/README.md).
+
 ## How to use this kit
 
 1. Pick a workflow from the strategies section.
@@ -54,6 +59,7 @@ See [docs/prompts/README.md](prompts/README.md).
 4. Run the work in small verified steps.
 5. Capture the outcome in a handoff document.
 6. Update your team conventions as patterns stabilize.
+7. Copy an example workflow or sample repo pack when you want a faster starting point.
 
 ## Design assumptions
 

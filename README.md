@@ -29,6 +29,7 @@ This kit is designed for three audiences:
 - [docs/templates/README.md](docs/templates/README.md) — reusable briefs, tasks, and handoffs
 - [docs/best-practices/README.md](docs/best-practices/README.md) — guardrails and quality guidance
 - [docs/prompts/README.md](docs/prompts/README.md) — prompt examples by scenario
+- [docs/examples/README.md](docs/examples/README.md) — example workflows and a sample real-app markdown pack
 
 ## Recommended reading paths
 
@@ -48,6 +49,12 @@ This kit is designed for three audiences:
 - [docs/configs/project-conventions.md](docs/configs/project-conventions.md)
 - [docs/best-practices/repo-hygiene.md](docs/best-practices/repo-hygiene.md)
 - [docs/best-practices/safety-and-guardrails.md](docs/best-practices/safety-and-guardrails.md)
+
+### If you want ready-to-copy examples
+- [docs/examples/workflows/README.md](docs/examples/workflows/README.md)
+- [docs/examples/real-app-repo/README.md](docs/examples/real-app-repo/README.md)
+- [docs/examples/workflows/new-feature-end-to-end.md](docs/examples/workflows/new-feature-end-to-end.md)
+- [docs/examples/real-app-repo/project-brief.md](docs/examples/real-app-repo/project-brief.md)
 
 ## Content principles
 

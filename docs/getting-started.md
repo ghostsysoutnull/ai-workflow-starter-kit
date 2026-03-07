@@ -74,6 +74,8 @@ Do not collapse all five into a single vague request when the work is meaningful
 ## First-day setup checklist
 
 - Read [docs/overview.md](overview.md)
+- Read [docs/gemini-cli/quickstart.md](gemini-cli/quickstart.md)
+- Review [docs/gemini-cli/project-context.md](gemini-cli/project-context.md)
 - Review [docs/configs/project-conventions.md](configs/project-conventions.md)
 - Pick an agent role set from [docs/agents/README.md](agents/README.md)
 - Save a local project brief based on [docs/templates/task-template.md](templates/task-template.md)

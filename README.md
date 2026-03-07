@@ -29,18 +29,21 @@ This kit is designed for three audiences:
 - [docs/templates/README.md](docs/templates/README.md) — reusable briefs, tasks, and handoffs
 - [docs/best-practices/README.md](docs/best-practices/README.md) — guardrails and quality guidance
 - [docs/prompts/README.md](docs/prompts/README.md) — prompt examples by scenario
+- [docs/gemini-cli/README.md](docs/gemini-cli/README.md) — concrete Gemini CLI operating guidance
 - [docs/examples/README.md](docs/examples/README.md) — example workflows and a sample real-app markdown pack
 
 ## Recommended reading paths
 
 ### If you are starting a new project
 - [docs/getting-started.md](docs/getting-started.md)
+- [docs/gemini-cli/quickstart.md](docs/gemini-cli/quickstart.md)
 - [docs/strategies/project-kickoff.md](docs/strategies/project-kickoff.md)
 - [docs/templates/task-template.md](docs/templates/task-template.md)
 - [docs/prompts/project-setup.md](docs/prompts/project-setup.md)
 
 ### If you are designing agent workflows
 - [docs/agents/README.md](docs/agents/README.md)
+- [docs/gemini-cli/operating-model.md](docs/gemini-cli/operating-model.md)
 - [docs/configs/agent-config-patterns.md](docs/configs/agent-config-patterns.md)
 - [docs/best-practices/context-management.md](docs/best-practices/context-management.md)
 - [docs/templates/handoff-template.md](docs/templates/handoff-template.md)
@@ -52,8 +55,10 @@ This kit is designed for three audiences:
 
 ### If you want ready-to-copy examples
 - [docs/examples/workflows/README.md](docs/examples/workflows/README.md)
+- [docs/examples/gemini-cli/README.md](docs/examples/gemini-cli/README.md)
 - [docs/examples/real-app-repo/README.md](docs/examples/real-app-repo/README.md)
 - [docs/examples/workflows/new-feature-end-to-end.md](docs/examples/workflows/new-feature-end-to-end.md)
+- [docs/examples/gemini-cli/full-worked-example.md](docs/examples/gemini-cli/full-worked-example.md)
 - [docs/examples/real-app-repo/project-brief.md](docs/examples/real-app-repo/project-brief.md)
 
 ## Content principles

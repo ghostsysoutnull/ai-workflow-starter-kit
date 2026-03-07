@@ -46,6 +46,11 @@ Prompt examples show how to ask for better results and how to constrain outputs 
 
 See [docs/prompts/README.md](prompts/README.md).
 
+### Gemini CLI
+Gemini CLI guidance covers installation, authentication, project context, session controls, and the practical operating model for terminal-first work.
+
+See [docs/gemini-cli/README.md](gemini-cli/README.md).
+
 ### Examples
 Example workflows and a sample real-app markdown pack show how the guidance can be used in practice.
 

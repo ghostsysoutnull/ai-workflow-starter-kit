@@ -5,6 +5,7 @@ This section turns the starter kit into something closer to a working operating 
 ## What is here
 
 - [workflows/README.md](workflows/README.md) — realistic multi-role workflow examples
+- [gemini-cli/README.md](gemini-cli/README.md) — Gemini CLI-native usage examples
 - [real-app-repo/README.md](real-app-repo/README.md) — a sample markdown pack for a real application repository
 
 ## How to use these examples

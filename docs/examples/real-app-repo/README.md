@@ -15,6 +15,7 @@ Copy these files into a real project when you want a ready-made operating layer 
 - [current-priorities.md](current-priorities.md)
 - [release-checklist.md](release-checklist.md)
 - [handoff-example.md](handoff-example.md)
+- [GEMINI.md](GEMINI.md)
 
 ## Example target repo shape
 
@@ -32,3 +33,5 @@ This pack assumes a normal application repository with areas such as:
 2. replace placeholder project details
 3. trim sections you do not need
 4. keep one owner for each file so it stays current
+
+Use [GEMINI.md](GEMINI.md) as the starting point for repo-level Gemini CLI context.

@@ -13,8 +13,14 @@ env/
 .mypy_cache/
 .cache/
 
-# MkDocs build output
-site/
+# Bundler / Jekyll
+.bundle/
+vendor/bundle/
+.jekyll-cache/
+.sass-cache/
+
+# Jekyll build output
+_site/
 
 # OS / editor files
 .DS_Store

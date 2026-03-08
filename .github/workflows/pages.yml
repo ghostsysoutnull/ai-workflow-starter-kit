@@ -23,23 +23,21 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          python-version: "3.12"
-
-      - name: Install documentation dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements-docs.txt
+          ruby-version: "3.3"
+          bundler-cache: true
 
       - name: Build site
-        run: mkdocs build --strict
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: site
+          path: _site
 
   deploy:
     needs: build

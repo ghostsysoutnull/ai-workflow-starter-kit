@@ -25,7 +25,7 @@ This kit is designed for three audiences:
 - [docs/overview.md](docs/overview.md) — what the kit is and how to use it
 - [docs/getting-started.md](docs/getting-started.md) — quick-start workflow
 - [docs/index.md](docs/index.md) — site landing page for published docs
-- [docs/publishing.md](docs/publishing.md) — GitHub Pages and MkDocs publishing guide
+- [docs/publishing.md](docs/publishing.md) — GitHub Pages and Jekyll publishing guide
 - [docs/agents/README.md](docs/agents/README.md) — reusable agent roles
 - [docs/strategies/README.md](docs/strategies/README.md) — end-to-end work patterns
 - [docs/configs/README.md](docs/configs/README.md) — configuration guidance and conventions

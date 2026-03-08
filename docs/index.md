@@ -55,4 +55,4 @@ This documentation set is organized into reusable sections:
 
 ## Notes
 
-This site is intended to be published with MkDocs Material on GitHub Pages. For deployment details, see [Publishing](publishing.md).
+This site is intended to be published with GitHub Pages using the Jekyll Hacker theme. For deployment details, see [Publishing](publishing.md).

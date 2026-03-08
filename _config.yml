@@ -1,0 +1,19 @@
+title: Gemini-CLI Software Project Starter Kit
+description: A docs-first starter kit for Gemini CLI and agent-driven software workflows.
+url: https://ghostsysoutnull.github.io
+baseurl: /ai-workflow-starter-kit
+source: docs
+theme: jekyll-theme-hacker
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+relative_links:
+  enabled: true
+  collections: true
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+show_downloads: false

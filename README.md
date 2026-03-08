@@ -14,15 +14,18 @@ This kit is designed for three audiences:
 
 1. Read [docs/overview.md](docs/overview.md)
 2. Follow [docs/getting-started.md](docs/getting-started.md)
-3. Pick an agent pattern from [docs/agents/README.md](docs/agents/README.md)
-4. Choose a workflow from [docs/strategies/README.md](docs/strategies/README.md)
-5. Reuse templates from [docs/templates/agent-brief-template.md](docs/templates/agent-brief-template.md)
-6. Adapt prompts from [docs/prompts/README.md](docs/prompts/README.md)
+3. Publish with [docs/publishing.md](docs/publishing.md)
+4. Pick an agent pattern from [docs/agents/README.md](docs/agents/README.md)
+5. Choose a workflow from [docs/strategies/README.md](docs/strategies/README.md)
+6. Reuse templates from [docs/templates/agent-brief-template.md](docs/templates/agent-brief-template.md)
+7. Adapt prompts from [docs/prompts/README.md](docs/prompts/README.md)
 
 ## Repository map
 
 - [docs/overview.md](docs/overview.md) — what the kit is and how to use it
 - [docs/getting-started.md](docs/getting-started.md) — quick-start workflow
+- [docs/index.md](docs/index.md) — site landing page for published docs
+- [docs/publishing.md](docs/publishing.md) — GitHub Pages and MkDocs publishing guide
 - [docs/agents/README.md](docs/agents/README.md) — reusable agent roles
 - [docs/strategies/README.md](docs/strategies/README.md) — end-to-end work patterns
 - [docs/configs/README.md](docs/configs/README.md) — configuration guidance and conventions

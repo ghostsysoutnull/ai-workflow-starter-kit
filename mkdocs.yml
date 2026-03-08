@@ -1,0 +1,109 @@
+site_name: Gemini-CLI Software Project Starter Kit
+site_url: https://ghostsysoutnull.github.io/ai-workflow-starter-kit/
+repo_name: ghostsysoutnull/ai-workflow-starter-kit
+repo_url: https://github.com/ghostsysoutnull/ai-workflow-starter-kit
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Overview: overview.md
+  - Getting Started: getting-started.md
+  - Publishing: publishing.md
+  - Findings: findings.md
+  - Progress Tracker: progress.md
+  - Agents:
+      - Overview: agents/README.md
+      - Planner Agent: agents/planner-agent.md
+      - Research Agent: agents/research-agent.md
+      - Implementer Agent: agents/implementer-agent.md
+      - Reviewer Agent: agents/reviewer-agent.md
+  - Best Practices:
+      - Overview: best-practices/README.md
+      - Context Management: best-practices/context-management.md
+      - Prompt Design: best-practices/prompt-design.md
+      - Repository Hygiene: best-practices/repo-hygiene.md
+      - Safety and Guardrails: best-practices/safety-and-guardrails.md
+  - Configuration Guidance:
+      - Overview: configs/README.md
+      - Agent Config Patterns: configs/agent-config-patterns.md
+      - Project Conventions: configs/project-conventions.md
+  - Prompt Examples:
+      - Overview: prompts/README.md
+      - Code Implementation Prompts: prompts/code-implementation.md
+      - Documentation Generation Prompts: prompts/doc-generation.md
+      - Feature Planning Prompts: prompts/feature-planning.md
+      - Project Setup Prompts: prompts/project-setup.md
+      - Test and Debug Prompts: prompts/test-and-debug.md
+  - Gemini CLI:
+      - Overview: gemini-cli/README.md
+      - Gemini CLI Operating Model: gemini-cli/operating-model.md
+      - Project Context with GEMINI.md: gemini-cli/project-context.md
+      - Gemini CLI Quickstart: gemini-cli/quickstart.md
+  - Strategy Guides:
+      - Overview: strategies/README.md
+      - Debugging Strategy: strategies/debugging.md
+      - Documentation Workflow Strategy: strategies/documentation-workflows.md
+      - Feature Delivery Strategy: strategies/feature-delivery.md
+      - Project Kickoff Strategy: strategies/project-kickoff.md
+      - Refactoring Strategy: strategies/refactoring.md
+  - Templates:
+      - Overview: templates/README.md
+      - Agent Brief Template: templates/agent-brief-template.md
+      - Handoff Template: templates/handoff-template.md
+      - Task Template: templates/task-template.md
+  - Examples:
+      - Overview: examples/README.md
+      - Gemini CLI Examples:
+          - Overview: examples/gemini-cli/README.md
+          - Full Worked Flow: examples/gemini-cli/full-worked-example.md
+          - Headless Automation: examples/gemini-cli/headless-automation.md
+          - Implementation Session: examples/gemini-cli/implementation-session.md
+          - Research Session: examples/gemini-cli/research-session.md
+      - Real App Repo Markdown Pack:
+          - Overview: examples/real-app-repo/README.md
+          - Agent Roster: examples/real-app-repo/agent-roster.md
+          - Project Conventions: examples/real-app-repo/conventions.md
+          - Current Priorities: examples/real-app-repo/current-priorities.md
+          - GEMINI.md Example: examples/real-app-repo/GEMINI.md
+          - Handoff Example: examples/real-app-repo/handoff-example.md
+          - Project Brief: examples/real-app-repo/project-brief.md
+          - Release Checklist: examples/real-app-repo/release-checklist.md
+          - Repository Overview: examples/real-app-repo/repo-overview.md
+      - Workflow Examples:
+          - Overview: examples/workflows/README.md
+          - Bug Fix: examples/workflows/bug-fix-workflow.md
+          - Documentation Refresh: examples/workflows/docs-refresh-workflow.md
+          - Legacy Module Refactor: examples/workflows/legacy-module-refactor.md
+          - New Feature End to End: examples/workflows/new-feature-end-to-end.md

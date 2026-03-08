@@ -25,7 +25,7 @@ The split across:
 
 is clear and maintainable.
 
-The navigation path from [README.md](../README.md) to [overview.md](overview.md) and [getting-started.md](getting-started.md) is also sensible. A new user can understand the intent of the repository quickly.
+The navigation path from [index.md](index.md) to [overview.md](overview.md) and [getting-started.md](getting-started.md) is also sensible. A new user can understand the intent of the repository quickly.
 
 ### Agent role documentation
 The role cards are effective.
